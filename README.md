@@ -1,2 +1,2 @@
 # Certificates
-This repository contains course certificates 
+This repository contains certificates of courses I have taken. 
